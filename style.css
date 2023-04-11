@@ -6,9 +6,9 @@
 }
 
 :root {
-    --bg-color: #000;
+    --bg-color: #000000;
     --font-color: #fff;
-    --secondary-bg-color: #ff4900;
+    --secondary-bg-color: #efbf3a;
     --font: "Poppins";
 }
 body {
@@ -272,7 +272,7 @@ body::-webkit-scrollbar-track {
     position: absolute;
 }
 .progress__wordpress span {
-    background-color: #ff4900;
+    background-color: #e7a01e;
     width: 100%;
 }
 .progress__html span {
@@ -354,7 +354,7 @@ body::-webkit-scrollbar-track {
 }
 
 .project__card .overlay {
-    background: rgb(255, 73, 0, 0.9);
+    background:#e7a01e;
     backdrop-filter: blur(2.7px);
     -webkit-backdrop-filter: blur(2.7px);
     position: absolute;
